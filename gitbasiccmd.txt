@@ -15,3 +15,33 @@ git commit -m "Commit Message"
 git remote add origin "git repo link"
 
 git push --set-upstream origin master
+
+git clone {github repo url - https}
+
+git status 
+
+git add {filename}
+
+git commit -m {"git commit message"}
+
+git push
+
+git add . => adds multiple files
+
+git pull
+
+git branch
+
+git branch {branchname} -> to add new branch
+
+git checkout {branchname} -> to switch to another branch
+
+git merge master -> to merge master to ur own branch
+
+git remote rm <remote-name>
+
+git remote -v
+
+git config -g user.name ""
+
+git config --global/local/system credential.helper
